@@ -1,1 +1,3 @@
 ## Apuntes econometría
+
+En progreso
