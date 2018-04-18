@@ -14,7 +14,8 @@ Some textbooks in econometrics:
   - Intermediate: [A Primer in Econometric Theory](https://mitpress.mit.edu/books/primer-econometric-theory)
   - Advanced: [Hayasi F: Econometrics](https://press.princeton.edu/titles/6946.html) 
 
-[Quantitative Economics](https://lectures.quantecon.org)
+Some websites for learning about economics and Python:
+[Quantitative Economics](https://lectures.quantecon.org),
 [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 
 
