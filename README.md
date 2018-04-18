@@ -6,7 +6,7 @@ The objective of this repository is to create some notes which help graduate stu
 
 If you find this interesting, some useful references could be:
 
-A nice introduction to Python: [Python for Everybody](https://www.coursera.org/specializations/python)
+- A nice introduction to Python: [Python for Everybody](https://www.coursera.org/specializations/python)
 
 Scientific programming in Python:  [Using Python for Research](https://www.edx.org/es/course/using-python-research-harvardx-ph526x-0)
 
