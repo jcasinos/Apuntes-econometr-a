@@ -8,7 +8,7 @@ If you find this interesting, some useful references could be:
 
 - A nice introduction to Python: [Python for Everybody](https://www.coursera.org/specializations/python)
 
-Scientific programming in Python:  [Using Python for Research](https://www.edx.org/es/course/using-python-research-harvardx-ph526x-0)
+- Scientific programming in Python:  [Using Python for Research](https://www.edx.org/es/course/using-python-research-harvardx-ph526x-0)
 
 Some textbooks in econometrics:
 
@@ -16,8 +16,8 @@ Some textbooks in econometrics:
   - Intermediate: [A Primer in Econometric Theory](https://mitpress.mit.edu/books/primer-econometric-theory)
   - Advanced: [Hayasi F: Econometrics](https://press.princeton.edu/titles/6946.html) 
 
-Some websites for learning about economics and Python:
+- Some websites for learning about economics and Python:
 [Quantitative Economics](https://lectures.quantecon.org),
 [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 
-A usefull resource for learning data analysis and programming: [DataCamp](https://www.datacamp.com)
+- A usefull resource for learning data analysis and programming: [DataCamp](https://www.datacamp.com)
