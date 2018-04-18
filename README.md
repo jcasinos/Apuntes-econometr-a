@@ -7,7 +7,9 @@ The objective of this repository is to create some notes which help graduate stu
 If you find this interesting, some useful references could be:
 
 A nice introduction to Python: [Python for Everybody](https://www.coursera.org/specializations/python)
+
 Scientific programming in Python:  [Using Python for Research](https://www.edx.org/es/course/using-python-research-harvardx-ph526x-0)
+
 Some textbooks in econometrics:
 
   - Introduction: [Introduction to econometrics](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Econometrics-International-Edition/9781408264331.page) 
