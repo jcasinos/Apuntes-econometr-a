@@ -6,4 +6,15 @@ The objective of this repository is to create some notes which help graduate stu
 
 If you find this interesting, some useful references could be:
 
-[Quantitative Economics](https://quantecon.org)
+A nice introduction to Python: [Python for Everybody](https://www.coursera.org/specializations/python)
+
+Some textbooks in econometrics:
+
+  - Introduction: [Introduction to econometrics](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Econometrics-International-Edition/9781408264331.page) 
+  - Intermediate: [A Primer in Econometric Theory](https://mitpress.mit.edu/books/primer-econometric-theory)
+  - Advanced: [Hayasi F: Econometrics](https://press.princeton.edu/titles/6946.html) 
+
+[Quantitative Economics](https://lectures.quantecon.org)
+[Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+
+
